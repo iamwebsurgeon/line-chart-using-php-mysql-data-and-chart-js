@@ -1,0 +1,5 @@
+1. Extract the folder in your server root folder or wherever you want(wamp, xampp or whatever you want to use)
+2. Create the database with the name of bar_chart. 
+3. If you want the custom database name you can change the database configuration in db.php file
+4. Import the bar_chart.sql file into your created database
+5. Enjoy!
